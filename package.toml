@@ -1,5 +1,5 @@
 [package_detail]
-name = "kalibrate_rtl"
+name = "kalibrate-rtl"
 description = "Fork of kalibrate for use with rtl-sdr devices"
 version = "0.4.1"
 source_url = "https://github.com/steve-m/kalibrate-rtl"
